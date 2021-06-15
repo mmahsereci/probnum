@@ -1,5 +1,5 @@
-Probabilistic Numerics
-=======================
+Probabilistic Numerics in Science
+=================================
 
 Mathematical models used to explain and predict the behaviour of complex systems such as immune cells or the climate
 rely heavily on numerical methods. The exponential growth in available data and computing power has revolutionized the

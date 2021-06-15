@@ -37,14 +37,14 @@ To learn how to use ProbNum check out the `quickstart guide <introduction/quicks
    :maxdepth: 1
    :caption: Introduction
 
-   introduction/probabilistic_numerics
    introduction/quickstart
+   introduction/pn_methods
+   introduction/probabilistic_numerics
 
 .. toctree::
    :maxdepth: 1
    :caption: Tutorials and Examples
 
-   tutorials/pn_methods
    tutorials/probability
    tutorials/linear_algebra
    tutorials/ordinary_differential_equations
